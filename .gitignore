@@ -1,0 +1,11 @@
+# macOS temporary and localization files
+.DS_Store
+.localized
+
+# Xcode temporary files
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS application bundles
+*.app/
+tmp/
