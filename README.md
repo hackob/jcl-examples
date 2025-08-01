@@ -1,6 +1,6 @@
 # JCL Examples for Mainframe Professionals
 
-This open-source repository offers a wide range of well-documented JCL examples for various mainframe utilities. The goal is to provide a comprehensive resource for both educational purposes and for experienced developers to find solutions to common tasks.
+This repository offers a wide range of well-documented JCL examples for various mainframe utilities. The goal is to provide a comprehensive resource for both educational purposes and for experienced developers to find solutions to common tasks.
 
 ### What you will find:
 
